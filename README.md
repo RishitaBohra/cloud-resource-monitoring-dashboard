@@ -170,9 +170,6 @@ Continued monitoring recommended for optimization opportunities.
 
 Rishita Bohra
 
-B.Tech Information Technology
-Swami Keshvanand Institute of Technology, Jaipur
-
 GitHub: https://github.com/RishitaBohra
 LinkedIn: https://www.linkedin.com/in/rishita-bohra-0b8095326
 
